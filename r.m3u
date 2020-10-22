@@ -1,0 +1,70 @@
+#EXTINF:-1,logo="https://cdn.webrad.io/images/logos/radioonline-my/era.png",ERA FM
+https://astro2.rastream.com/era
+
+
+#EXTINF:-1,logo="https://cdn.webrad.io/images/logos/radioonline-my/hitz.png",HITZ FM
+https://astro1.rastream.com/hitz 
+
+
+#EXTINF:-1,logo="https://cdn.webrad.io/images/logos/radioonline-my/sinar.png",SINAR FM
+https://astro2.rastream.com/sinar 
+
+
+#EXTINF:-1,logo="https://cdn.webrad.io/images/logos/radioonline-my/suria-fm.png",SURIA FM
+https://starrfm.rastream.com/starrfm-suria 
+
+
+#EXTINF:-1,logo="https://cdn.webrad.io/images/logos/radioonline-my/hot.png",HOT FM
+https://mediaprima.rastream.com/mediaprima-hotfm.android 
+
+
+#EXTINF:-1,logo="https://cdn.webrad.io/images/logos/radioonline-my/thr-kuala-lumpur.png",GEGAR FM
+https://astro3.rastream.com/gegar 
+
+
+#EXTINF:-1,logo="https://cdn.webrad.io/images/logos/radioonline-my/fly.png",FLY FM
+https://mediaprima.rastream.com/mediaprima-flyfm 
+
+#EXTINF:-1,logo="https://cdn.webrad.io/images/logos/radioonline-my/kool.png",KOOL FM
+https://mediaprima.rastream.com/mediaprima-koolfm
+
+
+
+
+#EXTINF:-1,logo="https://cdn.webrad.io/images/logos/radioonline-my/988.png",988 FM
+https://starrfm.rastream.com/starrfm-988
+
+#EXTINF:-1,logo="https://cdn.webrad.io/images/logos/radioonline-my/one-fm.png",ONE FM
+https://mediaprima.rastream.com/mediaprima-onefm
+
+#EXTINF:-1,logo="https://cdn.webrad.io/images/logos/radioonline-my/thr-raaga.png",RAAGA FM
+https://astro3.rastream.com/raaga
+
+#EXTINF:-1,logo="https://cdn.webrad.io/images/logos/radioonline-my/mix-fm.png",MIX FM
+https://astro2.rastream.com/mix
+
+#EXTINF:-1,logo="https://cdn.webrad.io/images/logos/radioonline-my/my-fm.png",MY FM
+https://astro1.rastream.com/myfm
+
+#EXTINF:-1,logo="https://cdn.webrad.io/images/logos/radioonline-my/klasik-kuala-lumpur.png",RADIO KLASIK FM
+https://radioklasik.secureswiftcontent.com/memorystreams/HLS/rtm-ch016/rtm-ch016.m3u8|Referer=https://myklik.rtm.gov.my
+
+#EXTINF:-1,logo="https://cdn.webrad.io/images/logos/radioonline-my/nasional.png",NASIONAL FM
+https://nasionalfm.secureswiftcontent.com/memorystreams/HLS/rtm-ch017/rtm-ch017.m3u8|Referer=https://myklik.rtm.gov.my
+
+#EXTINF:-1,logo="https://cdn.webrad.io/images/logos/radioonline-my/traxx-kuala-lumpur.png",TRAXX FM
+https://traxxfm.secureswiftcontent.com/memorystreams/HLS/rtm-ch019/rtm-ch019.m3u8|Referer=https://myklik.rtm.gov.my
+
+#EXTINF:-1,logo="https://cdn.webrad.io/images/logos/radioonline-my/ai-kuala-lumpur.png",AI FM
+https://aifm.secureswiftcontent.com/memorystreams/HLS/rtm-ch020/rtm-ch020.m3u8|Referer=https://myklik.rtm.gov.my
+
+#EXTINF:-1,logo="https://cdn.webrad.io/images/logos/radioonline-my/minnal.png",MINNAL FM
+https://minnalfm.secureswiftcontent.com/memorystreams/HLS/rtm-ch021/rtm-ch021.m3u8|Referer=https://myklik.rtm.gov.my
+
+#EXTINF:-1,logo="https://cdn.webrad.io/images/logos/radioonline-my/asyik-kuala-lumpur.png",ASYIK FM
+https://salamfm.secureswiftcontent.com/memorystreams/HLS/rtm-ch022/rtm-ch022.m3u8|Referer=https://myklik.rtm.gov.my
+
+
+
+#EXTINF:-1,logo="https://cdn.webrad.io/images/logos/radioonline-my/rtm-perak-fm.png",PERAK FM
+https://perakfm.secureswiftcontent.com/rtm-ch038/rtm-ch038/playlist.m3u8|Referer=https://myklik.rtm.gov.my 
