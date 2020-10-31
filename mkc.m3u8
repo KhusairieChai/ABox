@@ -1,0 +1,12 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-ALLOW-CACHE:NO
+#EXT-X-TARGETDURATION:4
+#EXT-X-MEDIA-SEQUENCE:37270
+
+#EXTINF:2.391,
+https://www.googleapis.com/drive/v3/files/1QxXWuBL8KCKXbwJA0LVaB2NiHyuQar98?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4?wsApp=HLS&wsMonitor=0
+#EXTINF:3.381,
+https://www.googleapis.com/drive/v3/files/1AYka1PFma7JZZFNS3AwxCD2Anfa43x9k?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4?wsApp=HLS&wsMonitor=0
+#EXTINF:2.976,
+https://www.googleapis.com/drive/v3/files/17sDGwtnSLGrlbxUN8xDTbT8oVkBP5PPV?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4?wsApp=HLS&wsMonitor=0
