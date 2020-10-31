@@ -1,8 +1,8 @@
- #EXTINF:-1,tvg-logo="https://github.com/KhusairieChai/ABox/raw/master/icon.png",MonyetDigital TV
+ #EXTINF:-1,tvg-logo="https://github.com/KhusairieChai/ABox/raw/master/banner.png",MonyetDigital TV
 https://github.com/KhusairieChai/ABox/raw/master/mdtv.mp4
 
 
-#EXTINF:-1,tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/flix-logo-png-transparent.png",MonyetFlix
+#EXTINF:-1,tvg-logo="https://github.com/KhusairieChai/ABox/raw/master/icon.png",MonyetFlix
 https://www.googleapis.com/drive/v3/files/1VUesF1Vuuz9YgxkDuRQ2og4sbtHQ11k2?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1,tvg-logo="https://data.apksum.com/3c/com.popcorntime.pop.corntimes.hdmovie/1.5/icon.png",PopCorn Time
