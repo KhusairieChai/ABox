@@ -1,8 +1,8 @@
- #EXTINF:-1,tvg-logo="https://github.com/KhusairieChai/ABox/raw/master/mdtv.png",MDTV+
+ #EXTINF:-1,tvg-logo="https://github.com/KhusairieChai/ABox/raw/master/icon.png",MDTV+
 https://github.com/KhusairieChai/ABox/raw/master/mdtv.mp4
 
 
-#EXTINF:-1,tvg-logo="https://github.com/KhusairieChai/ABox/raw/master/meflix.png",MEFlix
+#EXTINF:-1,tvg-logo="https://github.com/KhusairieChai/ABox/raw/master/miflix.png",MIFlix
 https://www.googleapis.com/drive/v3/files/17--aWXnQuWg1OhRXDRqwvjeODa4iDRD8?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1,tvg-logo="https://github.com/KhusairieChai/ABox/raw/master/maflix.png",MAFlix
