@@ -1,15 +1,3 @@
-#EXTINF:-1,Upstream
-https://s73.upstream.to/hls/o2up2zx56uysmvk4xtss67v5jspgoejdccnz7jueo2ms6lvjzxewhtwckgfq/index-v1-a1.m3u8
-
-#EXTINF:-1,UPSTREAM MASTER
-https://s54.upstream.to/hls/,o2up2wgc5yysmvk4xrnc6nvjlbks5spzjfnxu4adsr5n6srqck3mixqvzq5a,.urlset/master.m3u8
-
-
-
-
-#EXTINF:-1,UPSTREAM INDEX
-https://s54.upstream.to/hls/o2up2wgc5yysmvk4xrnc6nvjlbks5spzjfnxu4adsr5n6srqck3p2xqvzq5a/index-v1-a1.m3u8
-
 
 
 #EXTINF:-1,STREAMTAPE
