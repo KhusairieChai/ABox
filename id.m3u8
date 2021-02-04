@@ -1,8 +1,5 @@
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
 #EXTINF:-1 goup-title="MPD" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_82.png" goup-title="CHAI",MNCTV
-https://liveanevia.mncnow.id/live/eds/MNCTV/sa_dash_vmx/MNCTV.mpd
+https://etslive-2-vidio-com.akamaized.net/exp=1612482297~acl=/vp9/870_stream.mpd!/vp9/870/*~hmac=beee964477a48b46d03b8afed07a99eec8ddff82e10344f836b71cb2b52f9464/vp9/870_stream.mpd
 
 
 
