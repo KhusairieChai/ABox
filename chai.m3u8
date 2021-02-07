@@ -109,16 +109,16 @@ https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 X#EXTINF:-1 tvg-id="Red.Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9b/Screen_RED_%28logo%29.jpg" grup-title="Movies",Red by HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 
-#EXTINF:-1 tvg-id="RON.ID" tvg-logo="http://static.epg.best/in/RomedyNow.in.png" grup-title="Movies",Romedy Now
+x#EXTINF:-1 tvg-id="RON.ID" tvg-logo="http://static.epg.best/in/RomedyNow.in.png" grup-title="Movies",Romedy Now
 https://timesnow.airtel.tv/live/RN_pull/master.m3u8
 
 
 
 
-#EXTINF:-1 tvg-logo="http://static.epg.best/in/MoviesNow.in.png" grup-title="Movies",Movies Now
+x#EXTINF:-1 tvg-logo="http://static.epg.best/in/MoviesNow.in.png" grup-title="Movies",Movies Now
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_10000000045360000/ic_logo_mnx_(2).png" grup-title="Movies",MNX
+x#EXTINF:-1 tvg-logo="https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_10000000045360000/ic_logo_mnx_(2).png" grup-title="Movies",MNX
 https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
 
 
@@ -241,26 +241,26 @@ https://liveanevia.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
 
 
 
-#EXTINF:-1,logo="https://static.epg.best/es/Fox.es.png",Fox
+x#EXTINF:-1,logo="https://static.epg.best/es/Fox.es.png",Fox FPT
 https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
-#EXTINF:-1 grup-title="MPD" tvg-logo="https://mncvision.id/userfiles/image/channel/fox_channel.png" grup-title="新马",Fox MNC
+#EXTINF:-1 grup-title="MPD" tvg-logo="https://mncvision.id/userfiles/image/channel/fox_channel.png" grup-title="新马",Fox
 https://liveanevia.mncnow.id/live/eds/FoxChannel/sa_dash_vmx/FoxChannel.mpd
 
 
 
 
-#EXTINF:-1,logo="https://static.epg.best/in/FOXLife.in.png",Fox Life
+x#EXTINF:-1,logo="https://static.epg.best/in/FOXLife.in.png",Fox Life FPT
 https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
 
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
-#EXTINF:-1 tvg-logo="https://static.epg.best/in/FOXLife.in.png" grup-title="美国",Fox Life MNC
+#EXTINF:-1 tvg-logo="https://static.epg.best/in/FOXLife.in.png" grup-title="美国",Fox Life
 https://liveanevia.mncnow.id/live/eds/STARWorld/sa_dash_vmx/STARWorld.mpd
 
 
@@ -339,7 +339,7 @@ https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvest
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
-#EXTINF:-1 goup-title="MPD" tvg-logo="https://static.epg.best/kr/BBCEarth.kr.png" grup-title="新马",BBC Earth
+x#EXTINF:-1 goup-title="MPD" tvg-logo="https://static.epg.best/kr/BBCEarth.kr.png" grup-title="新马",BBC Earth
 https://liveanevia.mncnow.id/live/eds/BBCEarth/sa_dash_vmx/BBCEarth.mpd
 
 
@@ -397,7 +397,7 @@ https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 https://liveanevia.mncnow.id/live/eds/NatGeoPeople/sa_dash_vmx/NatGeoPeople.mpd
 
 
-#EXTINF:-1 tvg-id="TBX.UK" tvg-logo="http://static.epg.best/gb/TheBox.uk.png" goup-title="UK",The Box
+x#EXTINF:-1 tvg-id="TBX.UK" tvg-logo="http://static.epg.best/gb/TheBox.uk.png" goup-title="UK",The Box
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,thebox-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -431,14 +431,14 @@ https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/45_144.png" grup-title="电影",Disney Junior
+x#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/45_144.png" grup-title="电影",Disney Junior
 https://liveanevia.mncnow.id/live/eds/DisneyJunior/sa_dash_vmx/DisneyJunior.mpd
 
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/139_144.png" grup-title="电影",Disney XD
+x#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/139_144.png" grup-title="电影",Disney XD
 https://liveanevia.mncnow.id/live/eds/DisneyXD/sa_dash_vmx/DisneyXD.mpd
 
 
@@ -501,7 +501,7 @@ https://liveanevia.mncnow.id/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
-#EXTINF:-1 goup-title="MPD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" grup-title="新马",BabyTV
+x#EXTINF:-1 goup-title="MPD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" grup-title="新马",BabyTV
 https://liveanevia.mncnow.id/live/eds/BabyTV/sa_dash_vmx/BabyTV.mpd
 
 
