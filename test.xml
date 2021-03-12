@@ -1,9 +1,0 @@
- <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="WebGrab+Plus/w MDB & REX Postprocess -- version V2.1.11.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="CHAI">
-    <display-name lang="en">CHAI</display-name>
-    <url>http://www.khusairiechai.tv</url>
-  </channel>
-<programme start="20200720011600 +0000" stop="20200720020700 +0000" channel="CHAI">
-    <title lang="en"></title>
-    <desc lang="en"></desc>
