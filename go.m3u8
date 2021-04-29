@@ -33,5 +33,5 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="Red.Asia" tvg-logo="https://www.mewatch.sg/image/11230416/16x9/947/533/25177e0a801178d5b705f85f42655107/sh/red-by-hbo.png" grup-title="CHAI",Red by HBO
+#EXTINF:-1 tvg-id="Red.Asia" tvg-logo="https://github.com/KhusairieChai/ABox/raw/master/red.jpg" grup-title="CHAI",Red by HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
