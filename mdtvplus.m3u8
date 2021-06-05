@@ -1,10 +1,10 @@
 #EXTINF:-1,tvg-logo="https://github.com/KhusairieChai/ABox/raw/master/icon.png",MDTV+
 https://github.com/KhusairieChai/ABox/raw/master/mdtv.mp4
 
-#EXTINF:-1,TESTCitra
+x#EXTINF:-1,TESTCitra
 http://tvms.me:8080/live/wdbackup/backup1234/241.m3u8
 
-#EXTINF:-1,TESTCeria
+x#EXTINF:-1,TESTCeria
 http://tvms.me:8080/live/wdbackup/backup1234/253.m3u8
 
 #EXTINF:-1 tvg-id="Hbs.Asia" tvg-logo="https://static.epg.best/us/HBOSignature.us.png" grup-title="CHAI",HBO Signature
@@ -39,7 +39,7 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
-#EXTINF:-1 tvg-id="tvN.Asia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/274_144.png" grop-title="韩国",tvN Movies
+x#EXTINF:-1 tvg-id="tvN.Asia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/274_144.png" grop-title="韩国",tvN Movies
 https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 
 
