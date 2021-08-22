@@ -27,4 +27,4 @@ Email - alkhusairiechai@gmail.com
 
 
 
-intel,core,i3,10105f,zotac,gtx,1050,ti,ram,8gb,dual,channel,gameplay,fps,quality,khusairie,chai,bapa,kentang,benchmark,bapakentang,malaysia
+intel,core,i3,10105f,zotac,gtx,1050,ti,ram,4GB,16GB,SETTING,8gb,dual,channel,gameplay,fps,quality,khusairie,chai,bapa,kentang,benchmark,bapakentang,malaysia
