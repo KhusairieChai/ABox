@@ -1,10 +1,10 @@
 #EXTM3U url-tvg="http://bit.ly/seEPG3" x-tvg-url="http://bit.ly/kodiEPG"
 
 #EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/95_144.png" tvg-chno="1" channel-id="1" group-title="MYSG",TV1
-https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8|Referer=https://myklik.rtm.gov.my
+https://rtmlive01.secureswiftcontent.com/rtmchannel/01-manifest.m3u8|Referer=https://myklik.rtm.gov.my
 
 #EXTINF:-1 tvg-id="TV2.my" tvg-name="TV2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/103_144.png" tvg-chno="2" channel-id="2" group-title="MYSG",TV2
-https://rtm2.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8|Referer=https://myklik.rtm.gov.my
+https://rtmlive05.secureswiftcontent.com/rtmchannel/05-manifest.m3u8|Referer=https://myklik.rtm.gov.my
 
 #EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" tvg-chno="3" channel-id="3" group-title="MYSG",TV3
 http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
